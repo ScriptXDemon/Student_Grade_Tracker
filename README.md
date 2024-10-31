@@ -13,7 +13,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/StudentGradeTrackerGUI.git
+git clone https://github.com/ScriptXDemon/StudentGradeTrackerGUI.git
 Open the project in your preferred IDE or navigate to the project directory in your terminal.
 Usage
 Run the StudentGradeTrackerGUI class.
